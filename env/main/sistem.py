@@ -3,7 +3,7 @@ from main.lib.arquivo import *
 from time import sleep
 
 
-arq = 'cursoemvideo.txt'
+arq = 'listadeCadastro.txt'
 
 if not arqExiste(arq):
     criarArquivo(arq)
