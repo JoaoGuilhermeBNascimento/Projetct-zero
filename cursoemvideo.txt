@@ -1,3 +1,0 @@
-João;25
-gustavo;41
-Maria;85
